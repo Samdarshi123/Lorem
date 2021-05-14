@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: peachpuff;
+    font-style: oblique;
+}
+img{
+    border: 2px;
+    border-color: royalblue;
+    border-style: solid;
+    padding:10px;
+    border-radius: 100px;
+}
+#but{
+    width: 100px;
+    height: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px;
+    border-style: groove;
+    border-radius: 20px;
+    background-color:lightsalmon;
+    font-weight: bolder;
+    font-style: italic;
+}
